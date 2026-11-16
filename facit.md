@@ -92,7 +92,7 @@ När någon får 0 HP eller mindre ska loopen avslutas.
 Kontrollera vem som vann och skriv ut ett passande meddelande.
 
 
-#Övning 5 – Gissa lösenordet till spelkistan 🔐
+# Övning 5 – Gissa lösenordet till spelkistan 🔐
 Medel
 Uppgift: Spelaren hittar en låst skattkista. För att öppna den måste spelaren skriva rätt lösenord.
 
@@ -130,7 +130,7 @@ Skattkistan är upplåst!
 ```
 
 
-#Övning 4 – Boss fight 👹
+# Övning 4 – Boss fight 👹
 Medel
 Uppgift: Spelaren möter en boss som har 100 HP. Varje attack gör 25 skada.
 
@@ -166,7 +166,7 @@ Bossens HP: 0
 Boss defeated!
 ```
 
-#Övning 4 – Är du tillräckligt hög level? ⭐
+# Övning 4 – Är du tillräckligt hög level? ⭐
 Medel
 Uppgift: Spelaren måste vara level 10 för att få gå in i en bossfight.
 
@@ -194,4 +194,42 @@ else:
 
 ```
 
+# Du är en äventyrare som står framför två vägar. Du måste välja vilken väg du vill gå.
 
+Instruktioner steg för steg
+Skapa en variabel som heter val.
+
+Använd input() för att fråga spelaren vilken väg den vill gå.
+
+Ge spelaren två alternativ: 1 eller 2.
+
+Skapa en if-sats som kontrollerar om spelaren väljer 1.
+
+Om spelaren väljer 1 ska det stå "Du hittade en skatt!".
+
+Använd elif för att kontrollera om spelaren väljer 2.
+
+Om spelaren väljer 2 ska det stå "Du möter ett monster!".
+
+Använd else om spelaren skriver något annat.
+
+Färdig kod med kommentarer
+
+```
+python
+# Frågar spelaren vilken väg den vill gå
+val = input("Välj väg 1 eller 2: ")
+
+# Kontrollerar om spelaren väljer väg 1
+if val == "1":
+    print("Du hittade en skatt!")
+
+# Kontrollerar om spelaren väljer väg 2
+elif val == "2":
+    print("Du möter ett monster!")
+
+# Om spelaren skriver något annat
+else:
+    print("Det valet finns inte!")
+
+```
