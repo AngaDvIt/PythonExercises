@@ -58,10 +58,27 @@ def exercise_three():
   
 def exercise_four():
 
-  # Övning för varibaler , round 
+  # Övning för varibaler, typkonvertering
   
-
 def exercise_five():
+  # Övning för round
+
+def exercise_six():
+  # Logiska uttryck
+  
+def exercise_seven():
+   # Logiska uttryck
+  
+def exercise_eight():
+   # If-satsen
+  
+def exercise_nine():
+  # If-satsen
+  
+def exercise_ten():
+  # If-satsen
+  
+def exercise_eleven():
   # Skapa ett program som räknar ned från 10 till 1
 
   # 1. Skapa en variabel som heter raknare med värde 10.
@@ -76,9 +93,9 @@ def exercise_five():
 
   # 6. Testa att köra programmet! 
 
-exercise_five()
+exercise_eleven()
 
-def exercise_six():
+def exercise_twelve():
   #  Spelaren börjar med 100 HP (health points). Varje gång spelaren tar skada förlorar den 20 HP.
 
   # 1. Skapa en variabel som heter health_points med värdet 100
@@ -93,5 +110,5 @@ def exercise_six():
 
   # 6. När hälsan når 0 eller lägre ska du skriva ut "Game Over!". (Utanför while loopen)
 
-exercise_six()
+exercise_twelve()
 
