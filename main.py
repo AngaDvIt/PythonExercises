@@ -57,26 +57,40 @@ def exercise_three():
   # % (Modulos - beräknar resten av en division, exempel 10 % 3 = 1 )
   
 def exercise_four():
-
   # Övning för varibaler, typkonvertering
+
   
+
 def exercise_five():
   # Övning för round
 
 def exercise_six():
   # Logiska uttryck
+  # != , ==
+  # 1. Spara 2 tal som variabler
+  # 2. Skriv ut(print) och jämnför talen med både == och !=
+  # 3. Innan du kör programmet, gissa om det blir True eller False
+  # 4. Kör programmet
   
 def exercise_seven():
    # Logiska uttryck
+   # and, or
+   # 1. Spara 1 heltal som variabel
+   # 2. Skriv ut och jämnför variablen med ett heltal (x < 10 and x >20), gör likadant med or.
   
 def exercise_eight():
-   # If-satsen
+   # If-sats
+   # 1. Fråga användaren om deras ålder (input)
+   # 2. Skriv en if-sats , jämnför om användarens ålder är lika med 18 eller över
+   # 3. Är användarens ålder 18 eller över, skriv ut "Du får ta körkort"
+   # 4. Annars(else), om användaren är under 18, skriv ut "Du är för ung för att ta körkort"
   
 def exercise_nine():
-  # If-satsen
+  # If-sats
+  
   
 def exercise_ten():
-  # If-satsen
+  # If-sats
   
 def exercise_eleven():
   # Skapa ett program som räknar ned från 10 till 1
