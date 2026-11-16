@@ -233,3 +233,38 @@ else:
     print("Det valet finns inte!")
 
 ```
+
+# Uppgift: Spelaren har 200 guldmynt och vill köpa ett vapen.
+
+Instruktioner:
+
+Skapa variabeln guld.
+
+Ge den värdet 200.
+
+Fråga spelaren vilket vapen den vill köpa.
+
+Ett svärd kostar 100 guld.
+
+En sköld kostar 150 guld.
+
+Kontrollera om spelaren har råd.
+
+Om spelaren har råd ska du dra av kostnaden från guld.
+
+Skriv ut hur mycket guld spelaren har kvar.
+
+Om spelaren inte har råd ska du skriva ett meddelande.
+
+Exempel:
+
+```
+
+text
+Du har 200 guld.
+Vad vill du köpa? svärd
+Du köpte ett svärd!
+Du har 100 guld kvar.
+
+```
+
