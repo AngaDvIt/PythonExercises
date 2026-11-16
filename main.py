@@ -22,6 +22,46 @@ example()
 
 
 def exercise_one():
+  # Övning - skriva ut i python
+
+  # 1. Skriv ut Hello World!
+
+  # 2. Kör programmet
+  
+
+
+exercise_one()
+
+def exercis_two():
+  # Övning 2 - ta en input från användaren
+
+  # 1. Be användaren skriva sitt namn.
+
+  # 2. Skriv ut Hej och användarens namn (exempel Hej Lisa).
+
+  # 3. Kör programmet.
+
+exercise_two()
+
+def exercise_three():
+  # Övning 3 - skriv ut olika matematiska beräkningar
+
+  # 1. Välj två heltal och skriv ut summan av dom (exempel 53 + 89)
+
+  # 2. Upprepa övningen och använd de olika matematiska operatorerna. 
+  # / (Division)
+  # // (Division - heltal)
+  # - (Subtraktion)
+  # * (Multiplikation)
+  # ** (Upphöjt till)
+  # % (Modulos - beräknar resten av en division, exempel 10 % 3 = 1 )
+  
+def exercise_four():
+
+  # Övning för varibaler , round 
+  
+
+def exercise_five():
   # Skapa ett program som räknar ned från 10 till 1
 
   # 1. Skapa en variabel som heter raknare med värde 10.
@@ -36,9 +76,9 @@ def exercise_one():
 
   # 6. Testa att köra programmet! 
 
-exercise_one()
+exercise_five()
 
-def exercise_two():
+def exercise_six():
   #  Spelaren börjar med 100 HP (health points). Varje gång spelaren tar skada förlorar den 20 HP.
 
   # 1. Skapa en variabel som heter health_points med värdet 100
@@ -53,5 +93,5 @@ def exercise_two():
 
   # 6. När hälsan når 0 eller lägre ska du skriva ut "Game Over!". (Utanför while loopen)
 
-exercise_two()
+exercise_six()
 
