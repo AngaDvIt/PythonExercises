@@ -1,7 +1,7 @@
 # Facit
 
 
-### Exercise_one
+### Exercise_eleven
 
 ```
 raknare = 10
@@ -14,7 +14,7 @@ while raknare >= 1:
 
 ```
 
-### Exercise_two
+### Exercise_twelve
 
 ```
 
