@@ -2,6 +2,7 @@
 ### Exercise_two
 
 ´´´
+
 health_points = 100
 
 while health_points > 0:
