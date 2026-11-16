@@ -52,3 +52,6 @@ def exercise_two():
   # 5. Minska hälsan (healt_points) med 20 efter varje varv.
 
   # 6. När hälsan når 0 eller lägre ska du skriva ut "Game Over!". (Utanför while loopen)
+
+exercise_two()
+
