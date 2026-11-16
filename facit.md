@@ -1,3 +1,18 @@
+# Facit
+
+
+### Exercise_one
+
+```
+raknare = 10
+
+while raknare >= 1:
+
+    print(raknare)
+    
+    raknare = raknare - 1
+
+```
 
 ### Exercise_two
 
