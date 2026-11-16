@@ -26,3 +26,172 @@ while health_points > 0:
 print("Game Over!")
 
 ```
+
+
+#Övning 6 – Samla XP och levla upp 🎯
+Utmaning
+Uppgift: Spelaren börjar med 0 XP. Varje uppdrag ger 50 XP. När spelaren når 200 XP ska den levla upp.
+
+Instruktioner
+Skapa en variabel som heter xp.
+
+Ge variabeln startvärdet 0.
+
+Skapa en variabel som heter uppdrags_xp.
+
+Ge variabeln värdet 50.
+
+Skapa en while-loop som fortsätter så länge xp är mindre än 200.
+
+Lägg till 50 XP efter varje uppdrag.
+
+Skriv ut hur mycket XP spelaren har.
+
+När spelaren når 200 XP ska du skriva ut "LEVEL UP!".
+
+Förväntad utskrift:
+
+```
+text
+Du klarade ett uppdrag!
+Du har 50 XP
+
+Du klarade ett uppdrag!
+Du har 100 XP
+
+Du klarade ett uppdrag!
+Du har 150 XP
+
+Du klarade ett uppdrag!
+Du har 200 XP
+```
+LEVEL UP!
+Extra utmaning – Skapa ett enkelt textbaserat spel 🎮
+Boss level
+Nu får du kombinera flera saker du har tränat på.
+
+Uppgift: Skapa ett spel där användaren är en spelare som ska besegra ett monster.
+
+Instruktioner
+Spelaren börjar med 100 HP.
+
+Monstret börjar med 100 HP.
+
+Skapa en while-loop som fortsätter så länge både spelaren och monstret har mer än 0 HP.
+
+Låt spelaren attackera monstret och göra 25 skada.
+
+Skriv ut monstrets återstående HP.
+
+Om monstret fortfarande lever ska det attackera spelaren och göra 20 skada.
+
+Skriv ut spelarens återstående HP.
+
+När någon får 0 HP eller mindre ska loopen avslutas.
+
+Kontrollera vem som vann och skriv ut ett passande meddelande.
+
+
+#Övning 5 – Gissa lösenordet till spelkistan 🔐
+Medel
+Uppgift: Spelaren hittar en låst skattkista. För att öppna den måste spelaren skriva rätt lösenord.
+
+Lösenordet är dragon.
+
+Instruktioner
+Skapa en variabel som heter ratt_losenord.
+
+Spara texten "dragon" i variabeln.
+
+Skapa en variabel som heter gissning.
+
+Ge den ett tomt startvärde, exempelvis "".
+
+Skapa en while-loop som fortsätter så länge gissningen inte är samma som lösenordet.
+
+Be spelaren skriva in ett lösenord.
+
+Spara svaret i gissning.
+
+När spelaren skriver rätt lösenord ska loopen avslutas.
+
+Skriv ut "Skattkistan är upplåst!".
+
+Exempel på körning:
+
+```
+text
+Skriv lösenordet: sword
+Fel lösenord!
+Skriv lösenordet: monster
+Fel lösenord!
+Skriv lösenordet: dragon
+Skattkistan är upplåst!
+```
+
+
+#Övning 4 – Boss fight 👹
+Medel
+Uppgift: Spelaren möter en boss som har 100 HP. Varje attack gör 25 skada.
+
+Instruktioner
+Skapa en variabel som heter boss_halsa.
+
+Ge variabeln startvärdet 100.
+
+Skapa en variabel som heter skada.
+
+Ge variabeln värdet 25.
+
+Skapa en while-loop som fortsätter så länge bossens hälsa är större än 0.
+
+Minska bossens hälsa med värdet i skada.
+
+Skriv ut hur mycket hälsa bossen har kvar.
+
+När bossens hälsa når 0 ska du skriva ut "Boss defeated!".
+
+Förväntad utskrift:
+
+```
+text
+Du attackerar bossen!
+Bossens HP: 75
+Du attackerar bossen!
+Bossens HP: 50
+Du attackerar bossen!
+Bossens HP: 25
+Du attackerar bossen!
+Bossens HP: 0
+Boss defeated!
+```
+
+#Övning 4 – Är du tillräckligt hög level? ⭐
+Medel
+Uppgift: Spelaren måste vara level 10 för att få gå in i en bossfight.
+
+Instruktioner
+Skapa variabeln level.
+
+Ge den värdet 8.
+
+Kontrollera om level är större än eller lika med 10.
+
+Om villkoret stämmer ska du skriva "Du får gå in i bossfighten!".
+
+Annars ska du skriva "Du måste levla upp först!".
+
+```
+python
+# Sparar spelarens level
+level = 8
+
+# Kontrollerar om spelaren har tillräckligt hög level
+if level >= 10:
+    print("Du får gå in i bossfighten!")
+else:
+    print("Du måste levla upp först!")
+
+```
+
+
