@@ -37,3 +37,18 @@ def exercise_one():
   # 6. Testa att köra programmet! 
 
 exercise_one()
+
+def exercise_two():
+  #  Spelaren börjar med 100 HP (health points). Varje gång spelaren tar skada förlorar den 20 HP.
+
+  # 1. Skapa en variabel som heter health_points med värdet 100
+
+  # 2. Skapa en while-loop.
+
+  # 3. Loopen ska fortsätta så länge spelarens health_points är större än 0
+
+  # 4. Skriv ut spelarens aktuella hälsa.
+
+  # 5. Minska hälsan (healt_points) med 20 efter varje varv.
+
+  # 6. När hälsan når 0 eller lägre ska du skriva ut "Game Over!". (Utanför while loopen)
