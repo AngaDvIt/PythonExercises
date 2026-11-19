@@ -59,6 +59,12 @@ print(type(tal3))
 
 ```
 
+tal = 4.78654
+pris = 19.876
+
+print(round(tal))
+print(round(pris, 1 ))
+
 
 ```
 ### Exercise_six
