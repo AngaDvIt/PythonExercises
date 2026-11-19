@@ -68,7 +68,7 @@ print(x > 10 and x < 20)
 
 
 ```
-### Exercise_nine
+### Exercise_eight
 
 ```
 
