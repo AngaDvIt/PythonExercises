@@ -109,7 +109,11 @@ def exercise_nine():
   
 
 def exercise_ten():
-  # If-sats
+  # If-sats - övning, kontrollera temperaturen
+  # Fråga användare vilken temperatur det är( exemeplvis skriver användaren 25)
+  # Om temperaturen är högre än 25: skriv ut "Det är varmt ute!".
+  # Om temperaturen är exakt 25: skriv ut "Det är lagom varmt!".
+  # Om temperaturen är lägre än 25: skriv ut "Det är ganska kallt!".
   
 def exercise_eleven():
   # Skapa ett program som räknar ned från 10 till 1
