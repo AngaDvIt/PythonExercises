@@ -20,7 +20,7 @@ print(f"Hej {name}")
 
 ```
 
-### Exercis_three
+### Exercise_three
 
 ```
 
@@ -31,6 +31,40 @@ print("Subtraktion", 53 - 89)
 print("Multiplikation" ,53 * 89)
 print("Upphöjt till " ,53 ** 89)
 print("Modulus - rest av division " ,53 % 89)
+
+```
+### Exercise_four
+
+```
+
+
+```
+
+### Exercise_five
+
+```
+
+
+```
+### Exercise_six
+
+```
+
+
+
+```
+
+### Exercise_seven
+
+```
+
+
+```
+### Exercise_nine
+
+```
+
+
 
 ```
 
