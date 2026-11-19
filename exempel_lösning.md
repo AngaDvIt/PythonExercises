@@ -113,6 +113,20 @@ else:
     print("Fel lösenord!")
 ```
 
+### Exercise_ten
+
+```
+temperatur = int(input("Ange temperaturen"))
+
+if  temperatur > 25:
+    print("Det är varmt ute!")
+elif temperatur == 25:
+    print("Det är lagom varmt!")
+elif temperatur < 25:
+    print("Det är ganska kallt!")
+
+```
+
 ### Exercise_eleven
 
 ```
