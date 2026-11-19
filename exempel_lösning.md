@@ -1,4 +1,4 @@
-# Exempel på lösningar - det finns fler sätt att lösa de olika övningarna på , det viktiga är dom fungerar som tänkt 
+# Exempel på lösningar - det kan finnas flera sätt att lösa de olika övningarna på , det viktiga är dom fungerar som tänkt 
 
 ### Exercis_one
 ```
