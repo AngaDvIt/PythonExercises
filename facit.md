@@ -50,7 +50,11 @@ print("Modulus - rest av division " ,53 % 89)
 
 ```
 
+tal1 = 53
+tal2 = 54
 
+print(tal1 == tal2)
+print(tal1 != tal2)
 
 ```
 
@@ -58,12 +62,22 @@ print("Modulus - rest av division " ,53 % 89)
 
 ```
 
+x = 15
+
+print(x > 10 and x < 20)
+
 
 ```
 ### Exercise_nine
 
 ```
 
+age = int(input("Hur gammal är du ?"))
+
+if age >= 18:
+    print("Du får ta körkort")
+else:
+    print("Du är för ung för att ta körkort")
 
 
 ```
