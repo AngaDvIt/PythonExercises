@@ -37,6 +37,21 @@ print("Modulus - rest av division " ,53 % 89)
 
 ```
 
+tal1 = "42"
+tal2 = 19.8
+tal3 = 25
+
+tal1 = int(tal1)
+tal2 = int(tal2)
+tal2 = str(tal3)
+
+print(tal1)
+print(tal2)
+print(tal3)
+
+print(type(tal1))
+print(type(tal2))
+print(type(tal3))
 
 ```
 
