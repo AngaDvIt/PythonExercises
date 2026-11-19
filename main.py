@@ -58,6 +58,7 @@ def exercise_three():
   
 def exercise_four():
   # Övning för varibaler, typkonvertering
+  
   # Skapa följande variabler:
   # tal1 = "42"
   # tal2 = 19.8
@@ -71,6 +72,12 @@ def exercise_four():
 
 def exercise_five():
   # Övning för round
+
+  # Skapa följande variabler
+  # tal = 4.78654
+  # pris = 19.876
+  # Använd round() för att avrunda tal till närmaste heltal och skriv ut(print).
+  # Använd round() för att avrunda pris till en decimal och skriv ut.
 
 def exercise_six():
   # Logiska uttryck
