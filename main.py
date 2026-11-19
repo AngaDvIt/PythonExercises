@@ -46,7 +46,7 @@ exercise_two()
 def exercise_three():
   # Övning 3 - skriv ut olika matematiska beräkningar
 
-  # 1. Välj två heltal och skriv ut summan av dom (exempel 53 + 89)
+  # 1. Välj två heltal och skriv ut summan av dom (exempel: print("Addition ", 53 + 89)
 
   # 2. Upprepa övningen och använd de olika matematiska operatorerna. 
   # / (Division)
