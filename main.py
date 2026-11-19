@@ -83,7 +83,7 @@ def exercise_eight():
    # 1. Fråga användaren om deras ålder (input)
    # 2. Skriv en if-sats , jämnför om användarens ålder är lika med 18 eller över
    # 3. Är användarens ålder 18 eller över, skriv ut "Du får ta körkort"
-   # 4. Annars(else), om användaren är under 18, skriv ut "Du är för ung för att ta körkort"
+   # 4. Annars(else), skriv ut "Du är för ung för att ta körkort"
   
 def exercise_nine():
   # If-sats
