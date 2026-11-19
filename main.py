@@ -58,7 +58,15 @@ def exercise_three():
   
 def exercise_four():
   # Övning för varibaler, typkonvertering
-
+  # Skapa följande variabler:
+  # tal1 = "42"
+  # tal2 = 19.8
+  # tal3 = "Hej"
+  # 1. String till int: Konvertera tal1 till ett heltal (int).
+  # 2. Float till int: Konvertera tal2 till ett heltal (int).
+  # 3. Int till str: Konvertera tal3 till en string(str).
+  # 4. Skriv ut alla tre variablerna med print().
+  # 5. Skriv ut datatyperna med type().
   
 
 def exercise_five():
