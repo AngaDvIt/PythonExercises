@@ -1,5 +1,10 @@
 # Facit
 
+### Exercis_one
+```
+print("Hello World!")
+```
+
 
 ### Exercise_eleven
 
