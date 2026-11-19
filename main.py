@@ -102,8 +102,12 @@ def exercise_eight():
   
 def exercise_nine():
   # If-sats
+  # Skapa en variabel lösenord = "python123"
+  # Kontrollera om lösenordet är "python123" (lösenord == "python123").
+  # Om lösenordet stämmer ska programmet skriva ut "Rätt lösenord!".
+  # Annars ska programmet skriva ut "Fel lösenord!".
   
-  
+
 def exercise_ten():
   # If-sats
   
