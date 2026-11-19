@@ -102,6 +102,16 @@ else:
 
 
 ```
+### Exercise_nine
+
+```
+lösenord = "python123"
+
+if lösenord == "python123":
+    print("Rätt lösenord!")
+else:
+    print("Fel lösenord!")
+```
 
 ### Exercise_eleven
 
