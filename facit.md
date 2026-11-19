@@ -5,6 +5,34 @@
 print("Hello World!")
 ```
 
+### Exercise_two
+
+```
+name = input("Skriv ditt namn: ")
+
+print("Hej ", name)
+
+# Alternativt
+
+name = input("Skriv ditt namn: ")
+
+print(f"Hej {name}")
+
+```
+
+### Exercis_three
+
+```
+
+print("Addition " ,53 + 89)
+print("Division " ,53 / 89)
+print("Division - heltal" ,53 // 89)
+print("Subtraktion", 53 - 89)
+print("Multiplikation" ,53 * 89)
+print("Upphöjt till " ,53 ** 89)
+print("Modulus - rest av division " ,53 % 89)
+
+```
 
 ### Exercise_eleven
 
