@@ -22,6 +22,7 @@ example()
 
 
 def exercise_one():
+  pass
   # Övning - skriva ut i python
 
   # 1. Skriv ut Hello World!
@@ -32,8 +33,9 @@ def exercise_one():
 
 exercise_one()
 
-def exercis_two():
-  # Övning 2 - ta en input från användaren
+def exercise_two():
+  pass
+ # Övning 2 - ta en input från användaren
 
   # 1. Be användaren skriva sitt namn.
 
@@ -44,6 +46,7 @@ def exercis_two():
 exercise_two()
 
 def exercise_three():
+  pass
   # Övning 3 - skriv ut olika matematiska beräkningar
 
   # 1. Välj två heltal och skriv ut summan av dom (exempel: print("Addition ", 53 + 89)
@@ -57,6 +60,7 @@ def exercise_three():
   # % (Modulos - beräknar resten av en division, exempel 10 % 3 = 1 )
   
 def exercise_four():
+  pass
   # Övning för varibaler, typkonvertering
   
   # Skapa följande variabler:
@@ -71,6 +75,7 @@ def exercise_four():
   
 
 def exercise_five():
+  pass
   # Övning för round
 
   # Skapa följande variabler
@@ -80,6 +85,7 @@ def exercise_five():
   # Använd round() för att avrunda pris till en decimal och skriv ut.
 
 def exercise_six():
+  pass
   # Logiska uttryck
   # != , ==
   # 1. Spara 2 tal som variabler
@@ -88,12 +94,14 @@ def exercise_six():
   # 4. Kör programmet
   
 def exercise_seven():
+  pass
    # Logiska uttryck
    # and, or
    # 1. Spara 1 heltal som variabel
    # 2. Skriv ut och jämnför variablen med ett heltal (x < 10 and x >20), gör likadant med or.
   
 def exercise_eight():
+  pass
    # If-sats
    # 1. Fråga användaren om deras ålder (input)
    # 2. Skriv en if-sats , jämnför om användarens ålder är lika med 18 eller över
@@ -101,6 +109,7 @@ def exercise_eight():
    # 4. Annars(else), skriv ut "Du är för ung för att ta körkort"
   
 def exercise_nine():
+  pass
   # If-sats
   # Skapa en variabel lösenord = "python123"
   # Kontrollera om lösenordet är "python123" (lösenord == "python123").
@@ -109,6 +118,7 @@ def exercise_nine():
   
 
 def exercise_ten():
+  pass
   # If-sats - övning, kontrollera temperaturen
   # Fråga användare vilken temperatur det är( exemeplvis skriver användaren 25)
   # Om temperaturen är högre än 25: skriv ut "Det är varmt ute!".
@@ -116,6 +126,7 @@ def exercise_ten():
   # Om temperaturen är lägre än 25: skriv ut "Det är ganska kallt!".
   
 def exercise_eleven():
+  pass
   # Skapa ett program som räknar ned från 10 till 1
 
   # 1. Skapa en variabel som heter raknare med värde 10.
@@ -133,6 +144,7 @@ def exercise_eleven():
 exercise_eleven()
 
 def exercise_twelve():
+  pass
   #  Spelaren börjar med 100 HP (health points). Varje gång spelaren tar skada förlorar den 20 HP.
 
   # 1. Skapa en variabel som heter health_points med värdet 100
