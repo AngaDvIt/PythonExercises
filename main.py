@@ -87,7 +87,7 @@ def exercise_five():
 def exercise_six():
   pass # Ta bort denna när du slutfört övningen innan du kör programmet.
   # Logiska uttryck
-  # != , ==
+  # !=, ==
   # 1. Spara 2 tal som variabler
   # 2. Skriv ut(print) och jämnför talen med både == och !=
   # 3. Innan du kör programmet, gissa om det blir True eller False
@@ -104,7 +104,7 @@ def exercise_eight():
   pass # Ta bort denna när du slutfört övningen innan du kör programmet.
    # If-sats
    # 1. Fråga användaren om deras ålder (input)
-   # 2. Skriv en if-sats , jämnför om användarens ålder är lika med 18 eller över
+   # 2. Skriv en if-sats, jämnför om användarens ålder är lika med 18 eller över
    # 3. Är användarens ålder 18 eller över, skriv ut "Du får ta körkort"
    # 4. Annars(else), skriv ut "Du är för ung för att ta körkort"
   
@@ -120,7 +120,7 @@ def exercise_nine():
 def exercise_ten():
   pass # Ta bort denna när du slutfört övningen innan du kör programmet.
   # If-sats - övning, kontrollera temperaturen
-  # Fråga användare vilken temperatur det är( exemeplvis skriver användaren 25)
+  # Fråga användare vilken temperatur det är (exempelvis skriver användaren 25)
   # Om temperaturen är högre än 25: skriv ut "Det är varmt ute!".
   # Om temperaturen är exakt 25: skriv ut "Det är lagom varmt!".
   # Om temperaturen är lägre än 25: skriv ut "Det är ganska kallt!".
@@ -155,7 +155,7 @@ def exercise_twelve():
 
   # 4. Skriv ut spelarens aktuella hälsa.
 
-  # 5. Minska hälsan (healt_points) med 20 efter varje varv.
+  # 5. Minska hälsan (health_points) med 20 efter varje varv.
 
   # 6. När hälsan når 0 eller lägre ska du skriva ut "Game Over!". (Utanför while loopen)
 
