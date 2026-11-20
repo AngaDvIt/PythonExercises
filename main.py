@@ -28,7 +28,6 @@ def exercise_one():
   # 1. Skriv ut Hello World!
 
   # 2. Kör programmet
-  
 
 
 exercise_one()
@@ -57,7 +56,9 @@ def exercise_three():
   # - (Subtraktion)
   # * (Multiplikation)
   # ** (Upphöjt till)
-  # % (Modulos - beräknar resten av en division, exempel 10 % 3 = 1 )
+  # % (Modulos - beräknar resten av en division, exempel 10 % 3 = 1)
+
+exercise_three()
   
 def exercise_four():
   pass # Ta bort denna när du slutfört övningen innan du kör programmet.
@@ -72,6 +73,8 @@ def exercise_four():
   # 3. Int till str: Konvertera tal3 till en string(str).
   # 4. Skriv ut alla tre variablerna med print().
   # 5. Skriv ut datatyperna med type().
+
+exercise_four()
   
 
 def exercise_five():
@@ -84,14 +87,18 @@ def exercise_five():
   # Använd round() för att avrunda tal till närmaste heltal och skriv ut(print).
   # Använd round() för att avrunda pris till en decimal och skriv ut.
 
+exercise_five()
+
 def exercise_six():
   pass # Ta bort denna när du slutfört övningen innan du kör programmet.
   # Logiska uttryck
-  # !=, ==
+  # !=git, ==
   # 1. Spara 2 tal som variabler
   # 2. Skriv ut(print) och jämnför talen med både == och !=
   # 3. Innan du kör programmet, gissa om det blir True eller False
   # 4. Kör programmet
+
+exercise_six()
   
 def exercise_seven():
   pass # Ta bort denna när du slutfört övningen innan du kör programmet.
@@ -99,6 +106,8 @@ def exercise_seven():
    # and, or
    # 1. Spara 1 heltal som variabel
    # 2. Skriv ut och jämnför variablen med ett heltal (x < 10 and x >20), gör likadant med or.
+
+exercise_seven()
   
 def exercise_eight():
   pass # Ta bort denna när du slutfört övningen innan du kör programmet.
@@ -107,6 +116,8 @@ def exercise_eight():
    # 2. Skriv en if-sats, jämnför om användarens ålder är lika med 18 eller över
    # 3. Är användarens ålder 18 eller över, skriv ut "Du får ta körkort"
    # 4. Annars(else), skriv ut "Du är för ung för att ta körkort"
+
+exercise_eight()
   
 def exercise_nine():
   pass # Ta bort denna när du slutfört övningen innan du kör programmet.
@@ -115,7 +126,8 @@ def exercise_nine():
   # Kontrollera om lösenordet är "python123" (lösenord == "python123").
   # Om lösenordet stämmer ska programmet skriva ut "Rätt lösenord!".
   # Annars ska programmet skriva ut "Fel lösenord!".
-  
+
+exercise_nine()
 
 def exercise_ten():
   pass # Ta bort denna när du slutfört övningen innan du kör programmet.
@@ -124,6 +136,8 @@ def exercise_ten():
   # Om temperaturen är högre än 25: skriv ut "Det är varmt ute!".
   # Om temperaturen är exakt 25: skriv ut "Det är lagom varmt!".
   # Om temperaturen är lägre än 25: skriv ut "Det är ganska kallt!".
+
+exercise_ten()
   
 def exercise_eleven():
   pass # Ta bort denna när du slutfört övningen innan du kör programmet.
